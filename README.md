@@ -16,7 +16,7 @@ The project simulates a real-world BI workflow: from data modelling to visualiza
 ---
 ## Data Source
 - Kaggle
-The CSV file was loaded into PostgreSQL using python for **dimensional modelling**
+- The CSV file was loaded into PostgreSQL using python for **dimensional modelling**
 
 ## Data Modelling Approach
 The dataset was modelled using a **Star Schema**, separating **fact tables** from **dimension tables** to improve performance, scalability, and clarity. Relevant tables were formed from splitting a 53 columned denormalized table using SQL queries. 
@@ -33,7 +33,7 @@ The dataset was modelled using a **Star Schema**, separating **fact tables** fro
 ### Dimension Tables
 - **DimCustomer** – Customer details, region, segment
 - **dim_roducts** – Product name, category, department
-**Date table** was later added into the model inside Power BI desktop. This date table has active relationship with **fact_sales** and inactive relationship with **fact_shipment**
+- **Date table** was later added into the model inside Power BI desktop. This date table has active relationship with **fact_sales** and inactive relationship with **fact_shipment**
 
 This design enables:
 - Efficient filtering and slicing
