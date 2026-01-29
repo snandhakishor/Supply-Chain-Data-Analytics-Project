@@ -99,13 +99,6 @@ All measures were created following **clear naming conventions** and reusable lo
 
 ---
 
-## Author
-**Nandhakishor S**  
-Aspiring Data Analyst | BSc Physics  
-Skills: Power BI, SQL, Excel, Data Modelling
-
----
-
 ## Notes
 This project is built for **learning, portfolio, and interview demonstration purposes**, following industry-standard BI practices.
 
