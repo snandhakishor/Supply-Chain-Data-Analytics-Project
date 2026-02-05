@@ -15,7 +15,7 @@ The project simulates a real-world BI workflow: from data modelling to visualiza
 
 ---
 ## Data Source
-- Kaggle
+- Kaggle - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 - The CSV file was loaded into PostgreSQL using python for **dimensional modelling**
 
 ## Data Modelling Approach
